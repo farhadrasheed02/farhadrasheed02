@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 # Social Links
 [![Linkedin](https://img.shields.io/badge/Linkedin-000000?style=social&logo=Linkedin)](https://www.linkedin.com/in/farhadrashid02/)
-[![Instagram](https://img.shields.io/badge/Linkedin-000000?style=social&logo=Linkedin)](https://www.instagram.com/farhad_rashid_reshi/)
+[![Instagram](https://img.shields.io/badge/Instagram-000000>stype=social&logo=Instagram)](https://www.instagram.com/farhad_rashid_reshi/)
 
 # Github Cards
 [![Github](https://github-readme-stats.vercel.app/api/top-langs?username=farhadrasheed02&show_icons=true&locale=en&layout=compact&theme=dark)]()
