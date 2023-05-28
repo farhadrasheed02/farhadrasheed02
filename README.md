@@ -1,5 +1,5 @@
 ### Hi there Farhad Rashid Reshi👋
-- I LOVE CODING BUT IT SCARES ME AS WELL. 
+-I LOVE CODING BUT IT SCARES ME AS WELL. 
 -![Motivational Picture](https://images.pexels.com/photos/1742370/pexels-photo-1742370.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 <!--
 **farhadrasheed02/farhadrasheed02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
