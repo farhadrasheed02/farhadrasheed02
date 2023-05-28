@@ -1,5 +1,6 @@
 ### Hi there Farhad Rashid Reshi👋
-
+- I LOVE CODING BUT IT SCARES ME AS WELL. 
+- ![Motivational Picture](https://images.pexels.com/photos/1742370/pexels-photo-1742370.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 <!--
 **farhadrasheed02/farhadrasheed02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -26,6 +27,5 @@ Here are some ideas to get you started:
 
 - ☕ Coffee?
 <!-- - ![IDontDrinkCoffeeCrystalGIF](https://user-images.githubusercontent.com/47824972/234930500-3f9c30d4-d162-48b7-851c-10649ddcf727.gif) -->
-- I LOVE CODING BUT I SCARES ME A LOT. 
-- ![Motivational Picture](https://images.pexels.com/photos/1742370/pexels-photo-1742370.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+
 
