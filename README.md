@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 [![Linkedin](https://img.shields.io/badge/Linkedin-000000?style=social&logo=Linkedin)](https://www.linkedin.com/in/farhadrashid02/)
 [![Instagram](https://img.shields.io/badge/Instagram-000000?stype=social&logo=Instagram)](https://www.instagram.com/farhad_rashid_reshi/)
 
-# Github Cards
+<!-- # Github Cards
 [![Github](https://github-readme-stats.vercel.app/api/top-langs?username=farhadrasheed02&show_icons=true&locale=en&layout=compact&theme=dark)]()
 <br>
 [![Github](https://github-readme-stats-ruby-one.vercel.app/api?username=farhadrasheed02&show_icons=true&locale=en&theme=dark)]()
-<br>
+<br> -->
 [![Github](https://github-readme-streak-stats.herokuapp.com/?user=farhadrasheed02&theme=dark)]()
 [![Github](https://github-profile-trophy.vercel.app/?username=farhadrasheed02)]()
 
