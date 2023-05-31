@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 # Github Cards
 [![Github](https://github-readme-stats.vercel.app/api/top-langs?username=farhadrasheed02&show_icons=true&locale=en&layout=compact&theme=dark)]()
 <br>
-[![Github](https://github-readme-stats.vercel.app/api?username=farhadrasheed02&show_icons=true&locale=en&theme=dark)]()
+[![Github](https://github-readme-stats-ruby-one.vercel.app/api?username=farhadrasheed02&show_icons=true&locale=en&theme=dark)]()
 <br>
 [![Github](https://github-readme-streak-stats.herokuapp.com/?user=farhadrasheed02&theme=dark)]()
 [![Github](https://github-profile-trophy.vercel.app/?username=farhadrasheed02)]()
