@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 [![Instagram](https://img.shields.io/badge/Instagram-000000?stype=social&logo=Instagram)](https://www.instagram.com/farhad_rashid_reshi/)
 
 # Github Cards
-[![Github](https://github-readme-stats-ruby-one.vercel.app/api/top-langs?username=farhadrasheed02&show_icons=true&locale=en&layout=compact&theme=dark)]()
+[![Github](https://github-readme-stats.vercel.app/api/top-langs?username=farhadrasheed02&show_icons=true&locale=en&layout=compact&theme=dark)]()
 <br>
 [![Github](https://github-readme-stats-ruby-one.vercel.app/api?username=farhadrasheed02&show_icons=true&locale=en&theme=dark)]()
 <br>
