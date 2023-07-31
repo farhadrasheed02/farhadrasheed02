@@ -1,6 +1,12 @@
-### Hi there Farhad Rashid Reshi👋
--I am Working as a Quality Analyst.
--I am working on Java, Cucumber, JDBC,MySql,TestNG and so on
+📚 Currently Exploring Low Code and Angular
+<!-- this part i need to add again by first creating my resume here on this site as well
+- 💡 Built my personal portfolio website using Typedream.io, Have a look: https://uddeshya.typedream.app/  -->
+- 👀 I’m interested in Java, Python, JS, Angular, MongoBD.
+- 🌱 I’m currently learning JS, NodeJS, and Angular.
+  <!-- 💞️ I’m looking to collaborate on React, Azure $ DevOPS. --!>
+- 🌱 I’m currently learning Angular, Azure, DevOPS.
+- 💞️ I’m looking to collaborate on Angular, Azure & DevOPS.
+- 📫 How to reach me uddeshya.us@gmail.com.
 -![Motivational Picture](https://images.pexels.com/photos/1742370/pexels-photo-1742370.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 <!--
 **farhadrasheed02/farhadrasheed02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
