@@ -1,8 +1,8 @@
-📚 Currently Exploring Python,Pytest,Gen AI,Playwright
+📚 Currently Exploring Python,Pytest,Gen AI,Playwright, Java 
 <!-- this part i need to add again by first creating my resume here on this site as well
 - 💡 Built my personal portfolio website using Typedream.io, Have a look: https://uddeshya.typedream.app/  -->
-- 👀 I’m interested in Java, Python, JS, Angular, MongoBD.
-- 🌱 I’m currently learning JS, NodeJS, and Angular.
+- 👀 I’m interested in Java, Python, JS, Angular, MongoBD, Pytest, Playwright, Selenium.
+- 🌱 I’m currently learning JS,Python Advance, Gen AI MongoDB.
   <!-- 💞️ I’m looking to collaborate on React, Azure $ DevOPS. --!>
 <!-- - 🌱 I’m currently learning Angular, Azure, DevOPS. -->
 - 💞️ I’m looking to collaborate on Angular, Azure & DevOPS.
