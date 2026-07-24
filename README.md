@@ -1,4 +1,4 @@
-📚 Currently Exploring Python, HTML,CSS,BootStrap.
+📚 Currently Exploring Python,Pytest,Gen AI,Playwright
 <!-- this part i need to add again by first creating my resume here on this site as well
 - 💡 Built my personal portfolio website using Typedream.io, Have a look: https://uddeshya.typedream.app/  -->
 - 👀 I’m interested in Java, Python, JS, Angular, MongoBD.
